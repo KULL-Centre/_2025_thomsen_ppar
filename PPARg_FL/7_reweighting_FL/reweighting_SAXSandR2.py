@@ -14,7 +14,7 @@ thetas = np.geomspace(10,10000,10)
 scale_offset_iterations = 15
 
 SAXS_exp_file = '../PPARg_lowsalt_SAXSexpt.dat'
-SAXS_calc_file = '../calc_SAXS_free_joined.dat'
+SAXS_calc_file = '../calc_SAXS_FL.dat'
 R2_exp_file = '../AB_seq_DBD_hinge_LBD_contacts_CA_allresis_R2diff_BMEexpt.dat'
 R2_calc_file = '../AB_seq_DBD_hinge_LBD_contacts_CA_allresis_R2diff_BMEcalc.dat'
 initial_weights_file = '../../6_reweighting_dAB/weights/weights.pkl'
